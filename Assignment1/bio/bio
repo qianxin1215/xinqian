@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Bio Page
+        </title>
+    </head>
+    <body>
+       <h1>
+            Bio Page
+      </h1>
+        <p>
+            Hello,everyone. This is my bio page. My name is <b>Xin Qian</b>, I'm from <b>China</b>.I'm <b>22</b> years old. I like play computer games, like GTA5, League of Legends.
+      </p>
+
+        <p>
+           There are some favorite pictures.  
+        </p>
+        <img src="../../assets/images/floff.png" width="200">
+        <img src="../../assets/images/floof.png" width="300">
+
+        <a href="../">
+            <br>
+            …Back to your home page.
+        </a>
+    </body>
+</html>
