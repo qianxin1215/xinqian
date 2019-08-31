@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Portfolio
+        </title>
+    </head>
+    <body>
+        <h1>
+            Xin's Portfolio
+        </h1>
+
+        <div>
+            <h2>
+                Welcome
+            </h2>
+            
+            <p>
+                Welcome to visit my portfolio!  
+            </p>
+            
+            <a href="bio">
+                <br>
+                Back to bio page.  
+            </a>
+    
+            <a href="./contact/">
+                <br>
+                Back to contact page.  
+            </a>
+
+            <p>
+            <copyright>Copyright © 2019 Xin Qian All Rights Reserved. </copyright>  
+            </p>
+        </div>
+    </body>
+</html>
