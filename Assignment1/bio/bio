@@ -16,8 +16,8 @@
         <p>
            There are some favorite pictures.  
         </p>
-        <img src="../../assets/images/floff.png" width="200">
-        <img src="../../assets/images/floof.png" width="300">
+        <img src="landscape1.jpg" width="200">
+        <img src="landscape2.jpg" width="300">
 
         <a href="../">
             <br>
