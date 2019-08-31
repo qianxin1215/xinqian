@@ -10,8 +10,11 @@
          Contact page
       </h1>
         <div>
-            The contact page shouldn't give out any information you don't want public; you can make up information if you choose.  
+            Hello everyone, this is my contact page. If you have any questions, email me please.  
         </div>
+        <p>
+        <a href="Xin.Qian@sckans.edu">Send email to Xin</a>
+      </p>
         <p>
           <a href="/xinqian/assignment1/">Back to Xin's Portfolio.  </a>
         </p>   
