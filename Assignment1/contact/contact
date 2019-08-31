@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Sample Contact Page
+        </title>
+    </head>
+    <body>
+       <h1>
+         Contact page
+      </h1>
+        <div>
+            The contact page shouldn't give out any information you don't want public; you can make up information if you choose.  
+        </div>
+        <p>
+          <a href="/xinqian/assignment1/">Back to Xin's Portfolio.  </a>
+        </p>   
+    </body>
+</html>
